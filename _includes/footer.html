@@ -1,0 +1,46 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.footer_title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div>
+      </div>
+
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% else %}
+              {{ site.title | escape }}
+            {% endif %}
+            </li>
+            {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">Contact</a></li>
+            {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <div>
+          Supported by:
+	</div>
+
+        <span>
+          <a href="http://www.vihar.org">
+            <img style="height: auto; width: auto; max-width: 100px; max-height: 100px; margin: 1em"
+                                                     src="{{ site.baseurl }}/assets/vihar_logo.png">
+          </a>
+        </span>
+     
+        
+
+      </div>
+
+    </div>
+
+  </div>
+
+</footer>
