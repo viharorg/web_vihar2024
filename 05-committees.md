@@ -27,6 +27,7 @@ Olivier Pietquin || Earth Species Project
 -->
 
 #### Steering Committee
+
 Roger K. Moore || Sheffield University 
 Dan Stowell || Tilburg University
 Angela Dassow || Carthage College 
