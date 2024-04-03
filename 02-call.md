@@ -4,6 +4,28 @@ title: Call for submissions
 permalink: /call/
 exclude: true
 ---
+Many animals use vocal signals for a range of ecologically-motivated purposes: from detecting predators/prey and marking territory, to expressing emotions or physiological state, establishing social relations and sharing information. Whether it’s a bird raising an alarm, a whale calling to potential partners, a dog responding to human commands, a parent reading a story with a child, or a business person accessing stock prices using Siri on an iPhone, vocalization provides a valuable communication channel through which behavior may be coordinated, social interactions are mediated, and information is acquired and distributed. Indeed, the ubiquity of vocal interaction has led to research across a diverse array of fields, from assessing animal welfare, to understanding the precursors of human language, to developing voice-based human-machine interaction. Clearly, there is potential for cross-fertilisation between disciplines; for example, using robots to investigate contemporary theories of language grounding, using machine learning to decode animal communication or adding vocal expressivity to the next generation of autonomous social agents. However, many opportunities remain unexplored, not least due to the lack of a suitable forum.
+
+We invite original submissions of 5-page papers (with the 5th page reserved exclusively for acknowledgements and references) or 2-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the VIHAR-2024 proceedings that will be published online. All papers should follow the [Interspeech 2024](https://interspeech2024.org/author-resources/) template. 
+
+Suggested workshop topics may include, but are not limited to the following areas:
+  - Self-supervised learning for vocal signals
+  - Generative audio systems for vocal interactivity
+  - Function of animal vocalizations:  discovery of information embedded within signals, testing for functional reference, linking vocal signals to behavior
+  - Physiological and morphological comparisons between vocal systems in animals
+  - Vocal imitation and social learning of vocal signals
+  - Valence and emotion in vocal signals
+  - Inter and intraspecies comparative analyses of vocalizations
+  - Interspecific vocal interactivity between non-conspecifics.
+
+The submission form should contain the following information:
+ - Title
+ - Authors (and institutional affiliations)
+ - Abstract (max 1000 characters)
+ - One sentence stating the relevance to VIHAR
+ - Does this work relate to: Humans? Animals? Robots? (Multiple selections are certainly permitted!)
+ - The paper or extended abstract should be submitted in PDF format (with fonts included)
+
 
 <!--Almost all animals exploit vocal signals for a range of ecologically-motivated purposes: from detecting predators/prey and marking territory, to expressing emotions, establishing social relations and sharing information. Whether it’s a bird raising an alarm, a whale calling to potential partners, a dog responding to human commands, a parent reading a story with a child, or a businessperson accessing stock prices using Siri on an iPhone, vocalisation provides a valuable communications channel through which behaviour may be coordinated and controlled, and information may be distributed and acquired. Indeed, the ubiquity of vocal interaction has led to research across a diverse array of fields, from assessing animal welfare, to understanding the precursors of human language, to developing voice-based human-machine interaction. Clearly, there is potential for cross-fertilisation between disciplines; for example, using robots to investigate contemporary theories of language grounding, using machine learning to analyse different habitats or adding vocal expressivity to the next generation of autonomous social agents. However, many opportunities remain unexplored, not least due to the lack of a suitable forum.
 
@@ -71,7 +93,7 @@ Author kit:
 Since the 2019 template for VIHAR submissions has a larger font than previous editions, we have modified the page limits: (a) short papers can be up to 3 pages in total; (b) longer papers are still 5 pages, but can use an extra sixth page for acknowledgments and references.
 -->
 Key Dates:
-- Submission deadline -  ~~1st~~ 8th September 2021
-- Notification of acceptance -  22nd Septemver 2021
-- Workshop - 13th-15th October 2021
+- Submission deadline - 9th June 2024
+- Notification of acceptance -  8th July 2024
+- Workshop - 6th September 2024
 

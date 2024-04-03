@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: VIHAR-XXXX
-footer_title: Xth Intl. Workshop on Vocal interactivity in-and-between Humans, Animals and Robots
-email: vihar.community+XXXXworkshop@gmail.com
+title: VIHAR-2024
+footer_title: 4th Intl. Workshop on Vocal interactivity in-and-between Humans, Animals and Robots
+email: vihar2024@earthspecies.org
 description: > # this means to ignore newlines until "baseurl:"
   Vocal interactivity in-and-between Humans, Animals and Robots.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://vihar-XXXX.vihar.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://vihar-24.vihar.org" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-55555555-1 # change for the google analytics code
 
 # Build settings
