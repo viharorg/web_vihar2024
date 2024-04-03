@@ -4,9 +4,8 @@ title: Venue
 permalink: /venue/
 ---
 
-### Virtual Only 
+### Venue 
 
-The workshop is organized by **the Institute of Intelligent Systems and Robotics at Sorbonne University in Paris.**
-
-VIHAR 2021 is going virtual. 
+The workshop will be held at the Delphi room of the Kipriotis Hotels & Conference Center ([KICC](https://www.kipriotis.gr/en/)), located in the city of Kos, Greece.
+The map of the venue is hotlinked [here](https://interspeech2024.org/wp-content/uploads/Area-Map-KICC.jpg).
 
