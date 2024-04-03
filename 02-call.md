@@ -2,8 +2,10 @@
 layout: page
 title: Call for submissions
 permalink: /call/
-exclude: true
+exclude: False
 ---
+**Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2024)**
+
 Many animals use vocal signals for a range of ecologically-motivated purposes: from detecting predators/prey and marking territory, to expressing emotions or physiological state, establishing social relations and sharing information. Whether it’s a bird raising an alarm, a whale calling to potential partners, a dog responding to human commands, a parent reading a story with a child, or a business person accessing stock prices using Siri on an iPhone, vocalization provides a valuable communication channel through which behavior may be coordinated, social interactions are mediated, and information is acquired and distributed. Indeed, the ubiquity of vocal interaction has led to research across a diverse array of fields, from assessing animal welfare, to understanding the precursors of human language, to developing voice-based human-machine interaction. Clearly, there is potential for cross-fertilisation between disciplines; for example, using robots to investigate contemporary theories of language grounding, using machine learning to decode animal communication or adding vocal expressivity to the next generation of autonomous social agents. However, many opportunities remain unexplored, not least due to the lack of a suitable forum.
 
 We invite original submissions of 5-page papers (with the 5th page reserved exclusively for acknowledgements and references) or 2-page extended abstracts in all areas of vocal interactivity. Accepted papers will be compiled in the VIHAR-2024 proceedings that will be published online. All papers should follow the [Interspeech 2024](https://interspeech2024.org/author-resources/) template. 
@@ -25,6 +27,7 @@ The submission form should contain the following information:
  - One sentence stating the relevance to VIHAR
  - Does this work relate to: Humans? Animals? Robots? (Multiple selections are certainly permitted!)
  - The paper or extended abstract should be submitted in PDF format (with fonts included)
+
 
 
 <!--Almost all animals exploit vocal signals for a range of ecologically-motivated purposes: from detecting predators/prey and marking territory, to expressing emotions, establishing social relations and sharing information. Whether it’s a bird raising an alarm, a whale calling to potential partners, a dog responding to human commands, a parent reading a story with a child, or a businessperson accessing stock prices using Siri on an iPhone, vocalisation provides a valuable communications channel through which behaviour may be coordinated and controlled, and information may be distributed and acquired. Indeed, the ubiquity of vocal interaction has led to research across a diverse array of fields, from assessing animal welfare, to understanding the precursors of human language, to developing voice-based human-machine interaction. Clearly, there is potential for cross-fertilisation between disciplines; for example, using robots to investigate contemporary theories of language grounding, using machine learning to analyse different habitats or adding vocal expressivity to the next generation of autonomous social agents. However, many opportunities remain unexplored, not least due to the lack of a suitable forum.
