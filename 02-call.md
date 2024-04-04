@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for submissions
+title: Call for papers
 permalink: /call/
 exclude: False
 ---
@@ -24,6 +24,8 @@ The submission form should contain the following information:
  - Title
  - Authors (and institutional affiliations)
  - Abstract (max 1000 characters)
+ - Category (long or short paper)
+ - Keywords
  - One sentence stating the relevance to VIHAR
  - Does this work relate to: Humans? Animals? Robots? (Multiple selections are certainly permitted!)
  - The paper or extended abstract should be submitted in PDF format (with fonts included)
