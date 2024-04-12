@@ -100,5 +100,5 @@ Since the 2019 template for VIHAR submissions has a larger font than previous ed
 Key Dates:
 - Submission deadline - 9th June 2024
 - Notification of acceptance -  8th July 2024
-- Workshop - 6th September 2024
+- Workshop - 6th September 2024 (Kos, Greece), 9th September 2024 (Online)
 

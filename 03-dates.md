@@ -9,6 +9,7 @@ permalink: /dates/
 |  8th July 2024    ||             Notification of acceptance
 |  15th July 2024       ||             Final versions for inclusion in proceedings
 |  31st July 2024       ||             Author registration closes
-|  6th September 2024     ||             Workshop
+|  6th September 2024     ||             In-person sessions in Kos, Greece
+|  9th September 2024     ||             Online sessions
 
-All dates are Anywhere in the world (UTC+0).
+The submission, notifications and registration dates are Anywhere in the world (UTC+12).

@@ -10,7 +10,8 @@ layout: page
 
 {:center: style="text-align: center"}
 **6 September 2024  
-Kos, Greece (Interspeech 2024 Satellite Event)**
+Kos, Greece (Interspeech 2024 Satellite Event)
+and 9 September 2024 (online) **
 {:center}
   
 <img style="float: right; margin: 1em; overflow: auto;" src="{{ site.baseurl }}/assets/vihar_schema.png">
@@ -23,9 +24,9 @@ Many animals use vocal signals for a range of ecologically-motivated purposes: f
 
 The growing interest in deciphering animal communication and communicating with other species has driven the development of a test, aka the [Dolittle test](https://www.sciencedirect.com/science/article/pii/S0960982223008485). Similar to the Turing test, the Dolittle test attempts to define clear criteria for passing a threshold of inter-species communication.
 
-**VIHAR-2024** is the forth international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots.**  Taking place in Kos, Greece on 6 September 2024, **VIHAR-2024** aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields.  **VIHAR-2024** will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
+**VIHAR-2024** is the forth international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots.** . It will take place in a hybrid format and will be hosted in Kos, Greece on 6th September 2024 and online on 9th September 2024. **VIHAR-2024** aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields.  **VIHAR-2024** will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
 
-VIHAR-2024 is scheduled to take place as a satellite event 6th September 2024, immediately after Interspeech 2024 (which takes place in Kos, Greece) and it is supported by the International Speech Communication Association ([ISCA](http://www.isca-speech.org/)). We are aiming to keep the registration fee as low as possible.
+VIHAR-2024 is scheduled to take place as a satellite event 6th September 2024 (Kos, Greece) and 9th September 2024 (online), immediately after Interspeech 2024 (which takes place in Kos, Greece) and it is supported by the International Speech Communication Association ([ISCA](http://www.isca-speech.org/)). We are aiming to keep the registration fee as low as possible.
 
 We invite original submissions of papers or extended abstracts that relate to innovative topics in any area of vocal interaction in-and-between humans, animals and robots. Each submission will be reviewed by at least two members of the Scientific Review Committee.
 
