@@ -13,12 +13,16 @@ We invite original submissions of 5-page papers (with the 5th page reserved excl
 Suggested workshop topics may include, but are not limited to the following areas:
   - Self-supervised learning for vocal signals
   - Generative audio systems for vocal interactivity
-  - Function of animal vocalizations:  discovery of information embedded within signals, testing for functional reference, linking vocal signals to behavior
-  - Physiological and morphological comparisons between vocal systems in animals
+  - Function of vocalizations:  discovery of information embedded within signals, testing for functional reference, linking vocal signals to behavior
+  - Physiological and morphological comparisons between vocal systems in animals and humans
   - Vocal imitation and social learning of vocal signals
   - Valence and emotion in vocal signals
   - Inter and intraspecies comparative analyses of vocalizations
-  - Interspecific vocal interactivity between non-conspecifics.
+  - Interspecific vocal interactivity between non-conspecifics
+  - Speech perception and production in human-human interactions and human-robot interactions
+  - Comparative analysis of vocal signals in vocal interactivity
+  - Theory development of vocal interaction interfaces.
+
 
 The submission form should contain the following information:
  - Title
