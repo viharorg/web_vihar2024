@@ -22,6 +22,7 @@ Suggested workshop topics may include, but are not limited to the following area
   - Speech perception and production in human-human interactions and human-robot interactions
   - Comparative analysis of vocal signals in vocal interactivity
   - Theory development of vocal interaction interfaces.
+  - Ethics of vocal interactivity 
 
 
 The submission form should contain the following information:
