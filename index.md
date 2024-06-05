@@ -16,7 +16,7 @@ and 9 September 2024 (online) **
   
 <img style="float: right; margin: 1em; overflow: auto;" src="{{ site.baseurl }}/assets/vihar_schema.png">
 
-**Papers and extended abstracts are now being accepted and the submission deadline is June 9th, 2024.**
+**Papers and extended abstracts are now being accepted and the submission deadline is June 30th, 2024.**
 
 **Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2024)**
 
