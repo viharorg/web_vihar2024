@@ -16,9 +16,12 @@ and 9 September 2024 (online) **
   
 <img style="float: right; margin: 1em; overflow: auto;" src="{{ site.baseurl }}/assets/vihar_schema.png">
 
+<!--
 **Papers and extended abstracts are now being accepted and the submission deadline is June 30th, 2024.**
 
-**Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2024)**
+**Submission instructions can be found at [EasyChair submission page](https://easychair.org/conferences/?conf=vihar2024)** -->
+
+If you plan to attend the workshop in person, please register at the [Eventbrite registration page](https://www.eventbrite.com/e/4th-international-workshop-on-vocal-interactivity-in-and-between-humans-animals-and-robots-tickets-947965930617?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) or the [Interspeech 2024 registration page](https://interspeech2024.org/registration-payment/).
 
 Many animals use vocal signals for a range of ecologically-motivated purposes: from detecting predators/prey and marking territory, to expressing emotions or physiological state, establishing social relations and sharing information. Whether it’s a bird raising an alarm, a whale calling to potential partners, a dog responding to human commands, a parent reading a story with a child, or a business person accessing stock prices using Siri on an iPhone, vocalization provides a valuable communication channel through which behavior may be coordinated, social interactions are mediated, and information is acquired and distributed. Indeed, the ubiquity of vocal interaction has led to research across a diverse array of fields, from assessing animal welfare, to understanding the precursors of human language, to developing voice-based human-machine interaction. Clearly, there is potential for cross-fertilisation between disciplines; for example, using robots to investigate contemporary theories of language grounding, using machine learning to decode animal communication or adding vocal expressivity to the next generation of autonomous social agents. However, many opportunities remain unexplored, not least due to the lack of a suitable forum.
 

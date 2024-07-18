@@ -103,7 +103,8 @@ Author kit:
 Since the 2019 template for VIHAR submissions has a larger font than previous editions, we have modified the page limits: (a) short papers can be up to 3 pages in total; (b) longer papers are still 5 pages, but can use an extra sixth page for acknowledgments and references.
 -->
 Key Dates:
-- Submission deadline - 39th June 2024
+- Submission deadline - 30th June 2024
 - Notification of acceptance - 21st July 2024
+- Registration closes - 21st August 2024
 - Workshop - 6th September 2024 (Kos, Greece), 9th September 2024 (Online)
 
