@@ -9,7 +9,7 @@ layout: page
 {:center}
 
 {:center: style="text-align: center"}
-##**6 September 2024 Kos, Greece (Interspeech 2024 Satellite Event) and 9 September 2024 (online) **
+6 September 2024 Kos, Greece (Interspeech 2024 Satellite Event) and 9 September 2024 (online) 
 {:center}
   
 <img style="float: right; margin: 1em; overflow: auto;" src="{{ site.baseurl }}/assets/vihar_schema.png">

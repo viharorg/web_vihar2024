@@ -7,6 +7,7 @@ If you plan to attend solely the workshop and not the entire conference, please 
 
 If you plan to attend the main conference and the workshop, please register at the following [registration page](https://interspeech2024.org/registration-payment/).
 
-You would have to register online before August 21st, 2024. It is not possible to pay the registration fee in Kos.
+To attend the workshop in Kos you would need to register online before August 21st, 2024. The on-site registration will not be available. 
 
+The online workshop on September 9th, 2024 will not require registration.
 
