@@ -40,32 +40,59 @@ Ricard Marxer || University of Toulon
 #### Scientific Review Committee
 
 Anna Zamansky 
+
 Ilyena Hirskyj-Douglas 
+
 Sara Keen
+
 Vincent Lostanlen
+
 Leah Govia
+
 Logan James
+
 Maddie Cusimano    
+
 Julie Patris       
+
 Benjamin Hoffmann
+
 Jennifer Cunha
+
 Ricard Marxer   
+
 David Robinson
+
 Ines Nolasco
+
 Masato Hagiwara
+
 Ondřej Cífka
+
 Yossi Yovel   
+
 Pedro Ramoneda
+
 Alinta Krauth
+
 Jen-Yu Liu
+
 Luis Joglar-Ongay
+
 Paul Best
+
 Eliya Nachmani 
+
 Lonce Wyse
+
 Angelica Lim
+
 Xavier Favory
+
 Hassan Zaal 
+
 Marius Miron
+
 
 
 
@@ -74,6 +101,9 @@ Marius Miron
 #### Local Arrangements Team
 
 Sarit Sharfi
+
 Andrea Austin
+
 Brittany Solano
+
 
