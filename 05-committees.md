@@ -39,17 +39,41 @@ Ricard Marxer || University of Toulon
   
 #### Scientific Review Committee
 
-<!--
-Sabrina Engesser   ||   University of Vienna 
-Elodie Mandel-Briefer     ||    University of Copenhagen
-Roger Moore        ||    University of Sheffield
-Julie Oswald       ||    University of St. Andrews
-Dan Stowell        ||    Tilburg University / Naturalis Biodiversity Centre
-Ricard Marxer      ||    Université de Toulon, Aix Marseille Univ, CNRS, LIS
--->
+Anna Zamansky 
+Ilyena Hirskyj-Douglas 
+Sara Keen
+Vincent Lostanlen
+Leah Govia
+Logan James
+Maddie Cusimano    
+Julie Patris       
+Benjamin Hoffmann
+Jennifer Cunha
+Ricard Marxer   
+David Robinson
+Ines Nolasco
+Masato Hagiwara
+Ondřej Cífka
+Yossi Yovel   
+Pedro Ramoneda
+Alinta Krauth
+Jen-Yu Liu
+Luis Joglar-Ongay
+Paul Best
+Eliya Nachmani 
+Lonce Wyse
+Angelica Lim
+Xavier Favory
+Hassan Zaal 
+Marius Miron
+
+
 
 <br/>  
   
-<!-- #### Local Arrangements Team -->
+#### Local Arrangements Team
 
+Sarit Sharfi
+Andrea Austin
+Brittany Solano
 

@@ -27,7 +27,7 @@ The growing interest in deciphering animal communication and communicating with 
 
 **VIHAR-2024** is the forth international workshop on **Vocal Interactivity in-and-between Humans, Animals and Robots.** . It will take place in a hybrid format and will be hosted in Kos, Greece on 6th September 2024 and online on 9th September 2024. **VIHAR-2024** aims to bring together researchers studying vocalisation and speech-based interaction in-and-between humans, animals and robots from a variety of different fields.  **VIHAR-2024** will provide an opportunity to share and discuss theoretical insights, best practices, tools and methodologies, and to identify common principles underpinning vocal behaviour in a multi-disciplinary environment.
 
-VIHAR-2024 is scheduled to take place as a satellite event 6th September 2024 (Kos, Greece) and 9th September 2024 (online), immediately after Interspeech 2024 (which takes place in Kos, Greece) and it is supported by the International Speech Communication Association ([ISCA](http://www.isca-speech.org/)). We are aiming to keep the registration fee as low as possible.
+VIHAR-2024 is scheduled to take place as a satellite event 6th September 2024 (Kos, Greece) and 9th September 2024 (online), immediately after Interspeech 2024 (which takes place in Kos, Greece) and it is supported by the International Speech Communication Association ([ISCA](http://www.isca-speech.org/)).
 
 We invite original submissions of papers or extended abstracts that relate to innovative topics in any area of vocal interaction in-and-between humans, animals and robots. Each submission will be reviewed by at least two members of the Scientific Review Committee.
 
