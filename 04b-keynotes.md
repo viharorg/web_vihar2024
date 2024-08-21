@@ -5,7 +5,7 @@ permalink: /keynotes/
 ---
 ### Adriano Lameira, ApeTank, Department of Psychology, University of Warwick, UK
 
-<img style="display: block; margin: auto;" src="assets/photo_adriano.jpg" alt="Adriano Lameira" width="200"/>
+<img style="display: block; margin: auto;" src="{{ site.baseurl }}/assets/photo_adriano.jpg" alt="Adriano Lameira" width="200"/>
 
 Dr. Adriano Lameira is an Associate Professor and UK Research & Innovation
 Future Leaders Fellow at the Department of Psychology, University of Warwick, UK, where he leads the ApeTank, a research lab dedicated to the study of the origins of human behaviour and mind, with a focus on shedding light on language origins, dance and music evolution, and the precursors of imagination. He obtained his PhD at the University of Utrecht (Netherlands), followed by a Junior Research Fellowship at Durham University (UK) and a Marie Skłodowska-Curie Fellowship at the University of St Andrews (UK) before settling in Warwick, a lush campus-based university set in the English Shakespearean countryside and a spin-off of the neighbouring University of Oxford. Adriano and his team study great ape communication, cognition and cultures both in the wild (the peat-swamps of Borneo and low mountain rainforests of Sumatra that harbour the last remaining populations of wild orangutans) and in captivity across Europe and American zoo, complemented with comparative research with children at the department’s babylab. Beyond tackling fundamental questions about the nature and evolution of human mind’s building blocks, the ApeTank is committed to using new research methods and evidence for advanced cogno-communicative capacities in great apes to (i) improve primate welfare & husbandry in captivity, (ii) advocate primate conservation & protection in the wild, (iii) inform superior bio-inspired computer models and AI applications and (iv) advise stakeholders and law-makers.
@@ -16,7 +16,7 @@ Why, within a natural world teeming with examples of remarkable communication, h
 
 ### Marisa Hoeschele
 
-<img style="display: block; margin: auto;" src="assets/photo_marisa.jpg" alt="Marisa Hoeschele" width="200"/>
+<img style="display: block; margin: auto;" src="{{ site.baseurl }}/assets/photo_marisa.jpg" alt="Marisa Hoeschele" width="200"/>
 
 Marisa Hoeschele completed a PhD in Psychology with a specialization in Comparative Cognition and Behaviour at the University of Alberta in Edmonton, Alberta, Canada. She now leads the Biology Cluster at the Acoustics Research Institute of the Austrian Academy of Sciences, an interdisciplinary research-only institution with researchers from all different disciplines (e.g., mathematics, phonetics, physics, psychology, machine learning, biology) to address fundamental questions in acoustics. Her own research group, the Musicality and Bioacoustics group, studies parallels between humans and other animals in terms of their acoustic perception and production.  
 
