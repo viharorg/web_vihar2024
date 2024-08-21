@@ -8,7 +8,7 @@ permalink: /programme/
 
 ### Opening 10:00 AM 15 minutes
 
-### Keynote 10:15 AM 45 minutes - Adriano Lameira
+### Keynote 10:15 AM 45 minutes - Adriano Lameira - The ape and the first word: Advances in deciphering language evolution
 
 ### Session A 11:00 AM 1 hour: 15 minutes + 3 minutes Q&A
 
@@ -30,15 +30,13 @@ Runwu Shi, Katsutoshi Itoyama and Kazuhiro Nakadai - Bird Vocalization Embedding
 
 ### Coffee break 3:00 PM - 30 minutes
 
-### Keynote 3:30 PM 45 minutes - Marisa Hoeschele
+### Keynote 3:30 PM 45 minutes - Marisa Hoeschele - Decoding animal acoustic communication based on human language and music
 
 ### Session C 4:30 PM Extended abstracts 30 minutes: 8 minutes + 2 minutes Q&A
 
 Vincent Lostanlen - Towards Differentiable Motor Control of Bird Vocalizations
 
 Marianne de Heer Kloots and Mirjam Knörnschild - Exploring bat song syllable representations in self-supervised audio encoders
-
-Seema Lokhandwala, Rohan Kumar Gupta, Priyankoo Sarmah and Rohit Sinha - Deciphering Asian Elephant Rumble Calls to Classify Mahout and Social Interactions	
 
 ### Closing 10 minutes 
 
@@ -62,6 +60,8 @@ Heikki Rasilo and Yannick Jadoul - Introducing LeVI-imit – self-supervision ba
 Elin N Hirsch, Joost van de Weijer and Susanne Schötz - Vocal, Visual, and Tactile Signals in Cat–Human Communication: A Pilot Study
 
 Axel G. Ekström, Manon Delaunay and Linda Oña - On production mechanisms of group howling by Canis lupus: A case study 
+
+Seema Lokhandwala, Rohan Kumar Gupta, Priyankoo Sarmah and Rohit Sinha - Deciphering Asian Elephant Rumble Calls to Classify Mahout and Social Interactions	
 
 Reiji Suzuki, Zachary Harlow, Kazuhiro Nakadai and Takaya Arita	- Toward integrating evolutionary models and field experiments on avian vocalization using trait representations based on generative models		 
 
