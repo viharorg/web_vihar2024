@@ -20,7 +20,7 @@ Antonella Maria Cristina Torrisi, Inês De Almeida Nolasco, Elisabetta Versace a
 
 #### Lunch Break 
 
-#### Session B 2:00 PM 1 hour: 15 minutes + 3 minutes Q&A 
+#### Session B 2:00 PM 1 hour: 15 minutes + 3 minutes Q&A, chaired by Antonella Maria Cristina Torrisi
 
 Runwu Shi, Katsutoshi Itoyama and Kazuhiro Nakadai - Bird Vocalization Embedding Extraction Using Self-Supervised Disentangled Representation Learning [PDF](https://drive.google.com/file/d/1eQN-DyKuM0YuV6PiK_yl3LfkQENH2sd1/view?usp=drive_link)
 
