@@ -35,6 +35,7 @@ Accepted submissions will be published in the (indexed) **VIHAR-2024** Proceedin
 
 Following the inaugural workshop in Dagstuhl in 2016, VIHAR was held in 2017 ([Sweden](http://vihar-2017.vihar.org/)), 2019 ([London](http://vihar-2019.vihar.org/)) and 2021 ([Paris, online](http://vihar-2021.vihar.org/)). VIHAR is maintained by the ‘VIHAR International Steering Committee’.  VIHAR also has a [mailing list](http://www.freelists.org/list/vihar) and [Facebook Group](https://www.facebook.com/groups/1447726768643928).
 
+This event adheres to the [ISCA Code of Conduct](https://isca-speech.org/Code-of-Conduct-for-Conference-and-Workshop-Attendees).
 
 
 <!-- <span style="color:blue">The workshop proceedings are now available [here](http://vihar-2019.vihar.org/proceedings/).</span> -->
