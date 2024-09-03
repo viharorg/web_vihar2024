@@ -30,7 +30,7 @@ Roger Moore - What Needs to be Known in Order to Perform a Meaningful Scientific
 
 #### Keynote 3:30 PM 45 minutes - Marisa Hoeschele - Decoding animal acoustic communication based on human language and music
 
-#### Session C 4:30 PM Extended abstracts 30 minutes: 15 minutes + 3 minutes Q&A
+#### Session C 4:30 PM Extended abstracts 30 minutes: 15 minutes + 3 minutes Q&A, chaired by Angela Dassow
 
 Vincent Lostanlen - Towards Differentiable Motor Control of Bird Vocalizations [PDF](https://drive.google.com/file/d/1gthXMJYMdLGaHc5zAgHebJUtHnnDn8C2/view?usp=drive_link)
 
@@ -38,7 +38,7 @@ Marianne de Heer Kloots and Mirjam Knörnschild - Exploring bat song syllable re
 
 #### Closing 10 minutes 
 
-## Online workshop - 9 September 2024 - 5PM GMT+2, zoom link to be announced soon
+## Online workshop - 9 September 2024 - 5PM GMT+2, zoom link will be posted here one day before the workshop
 
 #### Presentations 1.5 hour: 15 minutes + 3 minutes Q&A
 
