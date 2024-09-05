@@ -35,6 +35,10 @@ Elodie F.Briefer || University of Copenhagen
 Ricard Marxer || University of Toulon 
 
 
+#### Publication Chair
+Ricard Marxer || University of Toulon 
+
+
 <br/>  
   
 #### Scientific Review Committee

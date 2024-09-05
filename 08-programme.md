@@ -30,7 +30,7 @@ Roger Moore - What Needs to be Known in Order to Perform a Meaningful Scientific
 
 #### Keynote 3:30 PM 45 minutes - Marisa Hoeschele - Decoding animal acoustic communication based on human language and music
 
-#### Session C 4:30 PM Extended abstracts 30 minutes: 15 minutes + 3 minutes Q&A, chaired by Angela Dassow
+#### Session C 4:30 PM Extended abstracts 50 minutes: 15 minutes + 3 minutes Q&A, chaired by Angela Dassow
 
 Vincent Lostanlen - Towards Differentiable Motor Control of Bird Vocalizations [PDF](https://drive.google.com/file/d/1gthXMJYMdLGaHc5zAgHebJUtHnnDn8C2/view?usp=drive_link)
 
