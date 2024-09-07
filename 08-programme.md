@@ -40,6 +40,8 @@ Marianne de Heer Kloots and Mirjam Knörnschild - Exploring bat song syllable re
 
 ## Online workshop - 9 September 2024 - 5PM GMT+2, zoom link will be posted here one day before the workshop
 
+#### Opening 15 minutes - Roger Moore on behalf of the VIHAR Steering Committee
+
 #### Presentations 1.5 hour: 15 minutes + 3 minutes Q&A
 
 Imen Ben Mahmoud, Eklavya Sarkar, Marta Manser and Mathew Magimai.-Doss	- Feature Representations for Automatic Meerkat Vocalization Classification	[PDF](https://drive.google.com/file/d/1CfQp8cSpAZ5_1V-OcNmduV8SbTxjfHdn/view?usp=drive_link)	
@@ -56,6 +58,8 @@ Heikki Rasilo and Yannick Jadoul - Introducing LeVI-imit – self-supervision ba
 
 #### Flash talks 1 hour: 5 minutes + 2 minutes Q&A
 
+Xavier Hinaut - Robot Language Acquisition Modelling via Cross-Situational Learning with Little Data [PDF](https://drive.google.com/file/d/1c1_KeugAYwuBcgfoBkkQtfDQxs9iL1Qt/view?usp=drive_link)		
+
 Elin N Hirsch, Joost van de Weijer and Susanne Schötz - Vocal, Visual, and Tactile Signals in Cat–Human Communication: A Pilot Study [PDF](https://drive.google.com/file/d/12WRksvc8o5WwpWzFbMon-szfA1blzch-/view?usp=drive_link)
 
 Axel G. Ekström, Manon Delaunay and Linda Oña - On production mechanisms of group howling by Canis lupus: A case study [PDF](https://drive.google.com/file/d/1P8DH8Q5R4q1uIbcUWfRySgbGS9kOUBuG/view?usp=drive_link)
@@ -70,6 +74,5 @@ Louis Mahon - Towards a Universal Method for Meaningful Signal Detection [PDF](h
 
 Aditya Ravuri, Jen Muir and Neil D. Lawrence - On Feature Learning for Titi Monkey Activity Detection [PDF](https://drive.google.com/file/d/1Gb_7GVDfNCliatowfZ8d41Df36jXmXcI/view?usp=drive_link) 
 
-Xavier Hinaut - Robot Language Acquisition Modelling via Cross-Situational Learning with Little Data [PDF](https://drive.google.com/file/d/1c1_KeugAYwuBcgfoBkkQtfDQxs9iL1Qt/view?usp=drive_link)		
 
 
