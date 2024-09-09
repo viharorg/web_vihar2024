@@ -42,7 +42,7 @@ Marianne de Heer Kloots and Mirjam Knörnschild - Exploring bat song syllable re
 
 #### Opening 15 minutes - Roger Moore on behalf of the VIHAR Steering Committee
 
-#### Presentations 90 minutes: 15 minutes + 3 minutes Q&A
+#### Presentations 90 minutes: 15 minutes + 3 minutes Q&A, chaired by Yossi Yovel
 
 Imen Ben Mahmoud, Eklavya Sarkar, Marta Manser and Mathew Magimai.-Doss	- Feature Representations for Automatic Meerkat Vocalization Classification	[PDF](https://drive.google.com/file/d/1CfQp8cSpAZ5_1V-OcNmduV8SbTxjfHdn/view?usp=drive_link)	
 
@@ -56,7 +56,7 @@ Heikki Rasilo and Yannick Jadoul - Introducing LeVI-imit – self-supervision ba
 
 #### Break 15 minutes
 
-#### Flash talks 1 hour: 5 minutes + 2 minutes Q&A
+#### Flash talks 1 hour: 5 minutes + 2 minutes Q&A, chaired by Marius Miron
 
 Xavier Hinaut - Robot Language Acquisition Modelling via Cross-Situational Learning with Little Data [PDF](https://drive.google.com/file/d/1c1_KeugAYwuBcgfoBkkQtfDQxs9iL1Qt/view?usp=drive_link)		
 
