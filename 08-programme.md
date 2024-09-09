@@ -38,11 +38,11 @@ Marianne de Heer Kloots and Mirjam Knörnschild - Exploring bat song syllable re
 
 #### Closing 10 minutes 
 
-## Online workshop - 9 September 2024 - 5PM GMT+2, zoom link will be posted here one day before the workshop
+## Online workshop - 9 September 2024 - 5PM Berlin/ 4PM London/ 8AM San Francisco, [zoom link](https://us02web.zoom.us/j/88688133688?pwd=P9uLLL0RUbNUnomKKbVol9Mh3BnvNf.1)
 
 #### Opening 15 minutes - Roger Moore on behalf of the VIHAR Steering Committee
 
-#### Presentations 1.5 hour: 15 minutes + 3 minutes Q&A
+#### Presentations 90 minutes: 15 minutes + 3 minutes Q&A
 
 Imen Ben Mahmoud, Eklavya Sarkar, Marta Manser and Mathew Magimai.-Doss	- Feature Representations for Automatic Meerkat Vocalization Classification	[PDF](https://drive.google.com/file/d/1CfQp8cSpAZ5_1V-OcNmduV8SbTxjfHdn/view?usp=drive_link)	
 
@@ -54,7 +54,7 @@ Petra Jääskeläinen and Elin Kanhov - Data Ethics of Human-Nonhuman Sound Tech
 
 Heikki Rasilo and Yannick Jadoul - Introducing LeVI-imit – self-supervision based articulatory model imitating speech on a web browser [PDF](https://drive.google.com/file/d/1bTYoJOK2Jot4C5jpVVPLRh390JQxj4T7/view?usp=drive_link)
 
-#### Break 30 minutes
+#### Break 15 minutes
 
 #### Flash talks 1 hour: 5 minutes + 2 minutes Q&A
 
